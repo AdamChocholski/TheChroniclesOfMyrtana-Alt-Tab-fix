@@ -13,7 +13,7 @@ Then if you want to be able to fix ALT+TAB problem you should change the setting
 
 After that you need to restart the game and it's done.
 
-
+The tool comes with a lot of new funcions so check it out and find what fits you the best!
 
 
 I do not claim any kind of ownership of TheChroniclesOfMyrtana mod or GD3D11 tool. I will remove this repository if asked form their owners to do so.
